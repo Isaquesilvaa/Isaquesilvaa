@@ -33,9 +33,7 @@ Automation is my way of saving time and staying ahead, so I can focus on strateg
 <div align="left">
   <img src="https://skillicons.dev/icons?i=virtualbox,powershell,mysql,oracle,sql" />
   <br>
-  [![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=windows11&logoColor=white)](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
-</div>
-
+  
 ---
 
 ## <img src="https://raw.githubusercontent.com/Isaque-SilvaTI/My-desc-/refs/heads/main/14621.gif" width="28"/> GitHub Stats:
